@@ -10,6 +10,9 @@ main memory.
 Output Stream: Direction of flow of bytes
 from main memory to the output device
 (e.g. Display).
+
+<< is known as the Insertion Operator.
+>> is known as the Extraction Operator.
 */
 
 #include <iostream>
