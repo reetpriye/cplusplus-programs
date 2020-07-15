@@ -17,4 +17,21 @@ letters and numbers.
 Variable names are case sensitive.
 No space or special characters allowed.
 Can not use reserved keywords.
+
+DATA TYPE -> SIZE(IN BYTES)
+
+short int -> 2
+unsigned short int -> 2
+unsigned int -> 4
+int -> 4
+long int -> 4
+unsigned long int -> 4
+long long int -> 8
+unsigned long long int -> 8
+signed char -> 1
+unsigned char -> 1
+float -> 4
+double -> 8
+long double -> 12
+wchar_t -> 2 or 4
 */
