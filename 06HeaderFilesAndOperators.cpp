@@ -49,3 +49,11 @@ int main()
     cout << "The value of logical not operator (!(a == b)): " << (!(a == b)) << endl;
     return 0;
 }
+
+/*
+WARNING: Output may vary according to
+architecture type or input.
+Output of the program : 
+The value of a + b is: 9
+The value of a - b is: -1
+*/
