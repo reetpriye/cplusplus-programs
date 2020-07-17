@@ -49,3 +49,14 @@ int main()
     ravi.setData(1, 2, 3);
     ravi.getData();
 }
+
+/*
+WARNING: Output may vary according to
+architecture type or input.
+Output of the program : 
+The value of a is 1
+The value of b is 2
+The value of c is 3
+The value of d is 4
+The value of e is 5
+*/
