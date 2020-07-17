@@ -64,3 +64,12 @@ int main()
     sum.printNumber();
     return 0;
 }
+
+/*
+WARNING: Output may vary according to
+architecture type or input.
+Output of the program : 
+Your Number is: 1+4i
+Your Number is: 5+8i
+Your Number is: 6+12i
+*/
