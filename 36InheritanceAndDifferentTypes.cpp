@@ -47,13 +47,3 @@ However, one of the parent classes is not
 a base class.
 Example: A -> B,C -> D
 */
-
-#include <iostream>
-using namespace std;
-
-int main() {
-
-    
-
-  return 0;
-}

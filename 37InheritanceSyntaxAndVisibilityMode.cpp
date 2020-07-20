@@ -64,3 +64,13 @@ int main()
     // skillF.id; Not allowed as inherited privately
     return 0;
 }
+
+/*
+WARNING: Output may vary according to
+architecture type or input.
+Output of the program : 
+34
+34
+9
+10
+*/
