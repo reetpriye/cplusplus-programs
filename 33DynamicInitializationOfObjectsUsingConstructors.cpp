@@ -75,3 +75,19 @@ int main()
     bd2 = BankDeposit(p, y, R);
     bd2.show();
 }
+
+/*
+WARNING: Output may vary according to
+architecture type or input.
+Output of the program : 
+Enter the Principal Amount: 1000
+Enter the Years: 1 
+Enter the Rate: 0.03
+Principal Amount: 1000
+Return value after 1 years: 1030
+Enter the Principal Amount: 1000
+Enter the Years: 1
+Enter the Rate: 3
+Principal Amount: 1000
+Return value after 1 years: 220310
+*/

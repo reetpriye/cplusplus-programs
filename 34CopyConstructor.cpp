@@ -47,3 +47,17 @@ int main()
     z3.display();
     return 0;
 }
+
+/*
+WARNING: Output may vary according to
+architecture type or input.
+Output of the program : 
+The number of this object is 0
+The number of this object is 0
+The number of this object is 45
+Copy Constructor Called...
+The number of this object is 45
+The number of this object is 45
+Copy Constructor Called...
+The number of this object is 45
+*/
