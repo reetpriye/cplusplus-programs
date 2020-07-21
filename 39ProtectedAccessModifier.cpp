@@ -14,8 +14,10 @@ private:
 };
 
 /*
+Protected members act as Private members
+which can be inherited.
 ----------------------------------------
-Mmebers | PublDerv | PrivDerv | ProtDerv
+Members | PublDerv | PrivDerv | ProtDerv
 ----------------------------------------
 Priv    | NotInher | NotInher | NotInher
 Prot    | Prot     | Priv     | Prot
